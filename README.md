@@ -21,10 +21,10 @@ python Botsito.py
 
 3. Conecta con ngrok:
 ```
-ngrok http 5000
+ngrok http 5000 (.\ngrok.exe http 5000)
 ```
 
 4. Usa el enlace generado en la configuración del sandbox de Twilio.
-
-Bot agroalimentario en WhatsApp con Flask, Twilio y OpenAI
+(http:ejemplo/bot metodo:POST)
+Bot agroalimentario en WhatsApp con Flask, Twilio y OpenAI(Free)
 7ddfab0195de04f2e49743f50bb89ae362c3970c

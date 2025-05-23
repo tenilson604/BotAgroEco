@@ -1,0 +1,14 @@
+{
+  "enero": ["ajo", "cebolla", "lechuga"],
+  "febrero": ["espinaca", "zanahoria", "rábano"],
+  "marzo": ["maíz", "pepino", "berenjena"],
+  "abril": ["maíz", "tomate", "pimientos"],
+  "mayo": ["zanahoria", "pepino", "lechuga"],
+  "junio": ["frijol", "calabaza", "melón"],
+  "julio": ["sandía", "jitomate", "chile"],
+  "agosto": ["brócoli", "coliflor", "repollo"],
+  "septiembre": ["acelga", "nabo", "espinaca"],
+  "octubre": ["fresa", "rábano", "zanahoria"],
+  "noviembre": ["ajo", "cebolla", "col"],
+  "diciembre": ["lechuga", "espinaca", "repollo"]
+}
